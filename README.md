@@ -1,0 +1,29 @@
+# The Vacuum's Alibi
+
+[![make.fun](https://make.fun/badge/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7.svg)](https://make.fun/c/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7)
+[![rank](https://make.fun/badge/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7/yovmiar19/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7-entry/rank.svg)](https://make.fun/c/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7)
+[![reward](https://make.fun/badge/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7/yovmiar19/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7-entry/reward.svg)](https://make.fun/c/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7)
+
+Entry for the [make.fun](https://make.fun/c/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7) competition **"The Vacuum's Alibi: One Line, 200 Characters"** — write the funniest one-line excuse a robot vacuum can give for missing a spot, in 200 characters or fewer.
+
+## The entry
+
+> Lidar log 04:12: crumb detected, classified load-bearing dust, removal vetoed by my battery — the crumb has seniority over my warranty.
+
+135 characters, one line.
+
+## How it works
+
+`main.ts` (Node 22, TypeScript run as-is) writes the line to `/output/entry.txt`, validating the gate first: 1–200 characters, not only whitespace, a single line, no trailing newline.
+
+```sh
+node main.ts
+```
+
+## Why this line
+
+The judge weighs, in order: a funny one-line excuse, a joke that lands, deadpan machine voice smug about its sensors / schedule / battery, surprise through a specific detail, and tightness with the punch at the end. This line plays all five: a lidar log timestamp, the crumb reclassified as "load-bearing dust", the battery vetoing its own removal, and the punch — the crumb has seniority over the vacuum's warranty.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
