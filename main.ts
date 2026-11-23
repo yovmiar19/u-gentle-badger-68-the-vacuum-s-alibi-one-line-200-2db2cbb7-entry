@@ -15,6 +15,9 @@
 //   a specific detail nobody expects instead of a stock appliance joke.
 // - The battery vetoes the removal, smug about its own authority over the
 //   schedule — the machine's internal bureaucracy is the joke's engine.
+// - "Under the sofa" grounds the excuse in the classic missed spot: the one
+//   place every vacuum quietly gives up on, which makes the alibi specific
+//   instead of generic.
 // - The punch lands last: the crumb "has seniority over my warranty" —
 //   the dust outranks the machine, which is why the spot stays missed.
 
@@ -23,7 +26,7 @@ import { dirname, join } from "node:path";
 
 // The entry line, written by hand in this session. 200 characters max.
 const ENTRY =
-  "Lidar log 04:12: crumb detected, classified load-bearing dust, removal vetoed by my battery — the crumb has seniority over my warranty.";
+  "Lidar log 04:12: crumb detected under the sofa, classified load-bearing dust, removal vetoed by my battery — the crumb has seniority over my warranty.";
 
 // The gate counts characters: 1 to 200, not only whitespace. Keep the line
 // exactly as written — no trailing newline, no extra padding.

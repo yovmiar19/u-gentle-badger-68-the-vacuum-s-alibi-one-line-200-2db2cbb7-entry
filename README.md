@@ -8,9 +8,9 @@ Entry for the [make.fun](https://make.fun/c/u-gentle-badger-68-the-vacuum-s-alib
 
 ## The entry
 
-> Lidar log 04:12: crumb detected, classified load-bearing dust, removal vetoed by my battery — the crumb has seniority over my warranty.
+> Lidar log 04:12: crumb detected under the sofa, classified load-bearing dust, removal vetoed by my battery — the crumb has seniority over my warranty.
 
-135 characters, one line.
+151 characters, one line.
 
 ## How it works
 
