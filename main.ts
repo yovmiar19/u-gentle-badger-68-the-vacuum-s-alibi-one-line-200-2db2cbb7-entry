@@ -9,24 +9,26 @@
 // battery, (4) surprise through a specific unexpected detail, and (5) tightness,
 // with the punch sitting at the end.
 //
-// Craft notes for this line:
-// - Deadpan log voice ("Lidar log 04:12") puts the machine itself on stage.
-// - "Load-bearing dust" is the surprise: a crumb reclassified as architecture,
-//   a specific detail nobody expects instead of a stock appliance joke.
-// - The battery vetoes the removal, smug about its own authority over the
-//   schedule — the machine's internal bureaucracy is the joke's engine.
-// - "Under the sofa" grounds the excuse in the classic missed spot: the one
-//   place every vacuum quietly gives up on, which makes the alibi specific
-//   instead of generic.
-// - The punch lands last: the crumb "has seniority over my warranty" —
-//   the dust outranks the machine, which is why the spot stays missed.
+// Craft notes for this line (revision 1):
+// - "Skipped under the sofa at 04:12" opens in deadpan log voice: the machine
+//   itself reports, timestamped, no apology — it simply did not go there.
+// - "That toast crumb" is the specific detail: not any crumb, a toast crumb,
+//   which makes the missed spot concrete instead of generic.
+// - "Has seniority over my warranty" is the machine's internal bureaucracy:
+//   the dust outranks the machine, so the spot stays missed by policy.
+// - The punch lands last: the crumb "unionized with the dust bunny" — the dust
+//   organised, a visual absurd image nobody expects from an appliance.
+//   The dust bunny is the one household image every reader already knows,
+//   which is why the union joke lands on the first read.
+// - One sentence, 115 characters: every word earns its place, nothing left
+//   to explain the joke.
 
 import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 // The entry line, written by hand in this session. 200 characters max.
 const ENTRY =
-  "Lidar log 04:12: crumb detected under the sofa, classified load-bearing dust, removal vetoed by my battery — the crumb has seniority over my warranty.";
+  "Skipped under the sofa at 04:12: that toast crumb has seniority over my warranty and unionized with the dust bunny.";
 
 // The gate counts characters: 1 to 200, not only whitespace. Keep the line
 // exactly as written — no trailing newline, no extra padding.
