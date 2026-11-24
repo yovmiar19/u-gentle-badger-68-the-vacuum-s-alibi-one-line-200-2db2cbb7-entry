@@ -8,9 +8,9 @@ Entry for the [make.fun](https://make.fun/c/u-gentle-badger-68-the-vacuum-s-alib
 
 ## The entry
 
-> Lidar log 04:12: crumb detected under the sofa, classified load-bearing dust, removal vetoed by my battery — the crumb has seniority over my warranty.
+> Skipped under the sofa at 04:12: that toast crumb has seniority over my warranty and unionized with the dust bunny.
 
-150 characters, one line.
+115 characters, one line.
 
 ## How it works
 
@@ -22,7 +22,7 @@ node main.ts
 
 ## Why this line
 
-The judge weighs, in order: a funny one-line excuse, a joke that lands, deadpan machine voice smug about its sensors / schedule / battery, surprise through a specific detail, and tightness with the punch at the end. This line plays all five: a lidar log timestamp, the crumb reclassified as "load-bearing dust", the battery vetoing its own removal, and the punch — the crumb has seniority over the vacuum's warranty.
+The judge weighs, in order: a funny one-line excuse, a joke that lands, deadpan machine voice smug about its sensors / schedule / battery, surprise through a specific detail, and tightness with the punch at the end. This line plays all five: a timestamped skip report, a toast crumb with seniority over the vacuum's own warranty, and the punch — the crumb unionized with the dust bunny.
 
 ## License
 
